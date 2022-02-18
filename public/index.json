@@ -1,0 +1,106 @@
+[
+{
+	"uri": "http://evan-m7.github.io/vspells/posts/",
+	"title": "Menu1",
+	"tags": null,
+	"description": "",
+	"content": "Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. My Custom Description\nPage 1   Page 2    "
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts/page1/",
+	"title": "Page 1",
+	"tags": null,
+	"description": "",
+	"content": "Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. Second Title Some text here.\nYou can link information and direct users like this Hugo installation guide.\nThird Title Some text here. Show code below.\nCopy   \u0026lt;div class=\u0026#34;mydiv bg-primary shadow text-white\u0026#34;\u0026gt; \u0026lt;h1 class=\u0026#34;title\u0026#34;\u0026gt;Hi there\u0026lt;/h1\u0026gt; \u0026lt;p class=\u0026#34;lead\u0026#34;\u0026gt;I\u0026#39;m inside a code shortcode. Check out my syntax highlighting!.\u0026lt;/p\u0026gt; \u0026lt;/div\u0026gt;    That is all.\nSecond Title Can highlight words and phrases like this /docs and etc.\nThird Title Some text here. Show code below.\nFourth Title Some text here. Show code below.\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts2/",
+	"title": "Menu2",
+	"tags": null,
+	"description": "",
+	"content": "Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. My Custom Description\nPage 1   Page 2    "
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts/page2/",
+	"title": "Page 2",
+	"tags": null,
+	"description": "",
+	"content": "Content Here\nDisable the prev/next buttons at the bottom of this page example page.\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts3/",
+	"title": "Menu3",
+	"tags": null,
+	"description": "",
+	"content": "Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. My Custom Description\nPage 1   Page 2    "
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/shortcuts/",
+	"title": "Shortcuts",
+	"tags": null,
+	"description": "",
+	"content": "My Custom Description\n  Square 1\n  Square 2\n  Shortcodes Features:\n [I’m an info alert]  [I’m an danger alert]  [I’m an warning alert]  [I’m an success alert]  [Button to Google]  Page 1   Page 2    Copy   \u0026lt;div class=\u0026#34;mydiv bg-primary shadow text-white\u0026#34;\u0026gt; \u0026lt;h1 class=\u0026#34;title\u0026#34;\u0026gt;Hi there\u0026lt;/h1\u0026gt; \u0026lt;p class=\u0026#34;lead\u0026#34;\u0026gt;I\u0026#39;m inside a code shortcode. Check out my syntax highlighting!.\u0026lt;/p\u0026gt; \u0026lt;/div\u0026gt;    Click so show content  [Hi there, I'm the hidden content. Didn't see that one coming, huh?]   The doublecode shortcode works the same as the code shortcode, but extends the functionality by also rendering the code in the page. This is useful for showing the code of HTML elements in your page.\nHi there\nI'm inside a doublecode shortcode, that's why I look so fancy.\n   Copy   \u0026lt;div class=\u0026#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary\u0026#34;\u0026gt; \u0026lt;p class=\u0026#34;h4 title\u0026#34;\u0026gt;Hi there\u0026lt;/p\u0026gt; \u0026lt;p class=\u0026#34;lead mb-0\u0026#34;\u0026gt;I\u0026#39;m inside a doublecode shortcode, that\u0026#39;s why I look so fancy.\u0026lt;/p\u0026gt; \u0026lt;/div\u0026gt;    Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. I\u0026#39;m Important  Be sure to read me       Tables are cool     col 3 is right-aligned $1600   col 2 is centered $12   zebra stripes are neat $1     "
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/",
+	"title": "Vspells Homepage",
+	"tags": null,
+	"description": "",
+	"content": "Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. My Custom Description\n  Description 1\n  Description 2\n  Features   Fast.  Static files generated in less than a second. And served to your visitors just as fast.      Minimalistic.  A clean look to keep your user's attention to the content that matters: your documentation.      For every project.  Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.      Automatic.  Folders and files are automatically added in the menu depending on your file and folder structure.      Full search.  Easily find the content you look for through the search function.      Code highlighting.  Code highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.      Useful shortcodes.  Code, buttons, alerts, leads, collapse, panels, images, videos and more.      Built with Bootstrap.  Built with Bootstrap 4. Fully responsive out of the box. Build and style page elements using Bootstrap.      Icons.  Packed with Font Awesome. Empower your content with a shit ton of awesome icons.    "
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts2/page1/",
+	"title": "Page 1",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts3/page1/",
+	"title": "Page 1",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/shortcuts/page1/",
+	"title": "Page 1",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts2/page2/",
+	"title": "Page 2",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/posts3/page2/",
+	"title": "Page 2",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/shortcuts/page2/",
+	"title": "Page 2",
+	"tags": null,
+	"description": "",
+	"content": "Hello, this is content!!!!!\nMore content\n"
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/categories/",
+	"title": "Categories",
+	"tags": null,
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://evan-m7.github.io/vspells/tags/",
+	"title": "Tags",
+	"tags": null,
+	"description": "",
+	"content": ""
+}]
