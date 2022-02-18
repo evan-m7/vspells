@@ -1,5 +1,8 @@
 baseURL = "http://evan-m7.github.io/vspells/"
 
+relativeURLs = true
+canonifyURLs = true
+
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "VSPELLS HOMEPAGE"
