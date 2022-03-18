@@ -1,13 +1,17 @@
 ---
-title: "Menu2"
+title: "Battery Consumption DSL"
 date: 2022-02-18T01:05:47-06:00
 weight: 2
 ---
 
 {{< lead >}}
-Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that.
+On-going work on DSL for energy models
 {{< /lead >}}
 
-My Custom Description
+##### Designing a mini-DSL for drone energy models
+- Study a range of energy consumption models for drones
+- Provide factors influencing energy (e.g., payload amount, flight altitude, mission parameters) as domain abstractions
+- Encode the domain semantics (i.e., mathematical equations for computing energy consumption rate) in FORMULA
+
 
 {{< childpages >}}

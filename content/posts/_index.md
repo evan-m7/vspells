@@ -1,13 +1,13 @@
 ---
-title: "Menu1"
+title: "Formula Work"
 date: 2022-02-18T01:05:47-06:00
 weight: 1
 ---
 
 {{< lead >}}
-Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that.
+FORMULA is a open-source language and tool for defining domain-specific languages (DSLs) and checking properties of those DSLs.
 {{< /lead >}}
 
-My Custom Description
+FORMULA core development: adding features to the FORMULA tool.
 
 {{< childpages >}}

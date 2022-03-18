@@ -1,33 +1,53 @@
 ---
-title: "Page 1"
+title: "Symbolic Execution"
 date: 2022-02-11T04:35:10-06:00
 weight: 1
 ---
 
-{{< lead >}} Great for introductions or summaries. I’m a lead paragraph. That means I’m more important. And you can see that. {{< /lead >}}
+{{< lead >}} 
+FORMULA Developments 
+{{< /lead >}}
 
-## Second Title
-Some text here.
-
-You can link information and direct users like this <a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo installation guide</a>.
-
-### Third Title
-Some text here. Show code below.
+## FORMULA: Initial Version of Symbolic Executer Engine
+Representative Example 
 
 {{< code lang="html" >}}
-<div class="mydiv bg-primary shadow text-white">
-	<h1 class="title">Hi there</h1>
-	<p class="lead">I'm inside a code shortcode. Check out my syntax highlighting!.</p>
-</div>
+domain Mapping
+{
+	Component ::= new (id: Integer, utilization: Real).
+	Processor ::= new (id: Integer).
+	Mapping   ::= new (c: Component, p: Processor).
+	
+	badMapping :- p is Processor,
+            	  s = sum (0.0, { c.utilization |
+                                  c is Component, Mapping (c, p) }), s > 100.
+  
+  conforms no badMapping.
+}
+
+model m of Mapping
+{
+	c1 is Component (0, 10).
+	c2 is Component (1, 91).
+	p1 is Processor (0).
+	Mapping (c1, p1).
+	Mapping (c2, p1).
+}
+
+partial model pm of Mapping
+{
+	c1 is Component (0, x).
+	c2 is Component (1, 90).
+	p1 is Processor (0).
+	Mapping (c1, p1).
+	Mapping (c2, p1).
+}
 {{< /code >}}
 
-That is all.
+What Does Code Show?
+- Component --> Software Components 
+- Processor --> Hardware Processors
+- Mapping --> Mapping Between The Two
 
-## Second Title
-Can highlight words and phrases like this <code>/docs</code> and etc.
+Outcome is one inference rule describing a bad mappings shown by models (m & pm) of Mapping. 
 
-### Third Title
-Some text here. Show code below.
-
-#### Fourth Title
-Some text here. Show code below.
