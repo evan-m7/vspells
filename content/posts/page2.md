@@ -9,7 +9,7 @@ disableReadmoreNav: true
 FORMULA Developments 
 {{< /lead >}}
 
-## Initial Version vs. Code Extension
+### Initial Version vs. Code Extension
 Goal: Working toward a notebook-style interface
 
 #### Representative Code Example

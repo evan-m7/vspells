@@ -6,7 +6,8 @@ disableReadmoreNav: true
 ---
 
 {{< lead >}} 
-Tree-sitter grammar for Formula using vscode-anycode
+Tree-sitter grammar for Formula using <a href="https://github.com/microsoft/vscode-anycode" target="_blank">vscode-anycode</a>
+
 {{< /lead >}}
 
 ## Why Anycode for Formula?

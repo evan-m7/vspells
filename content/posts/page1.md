@@ -5,10 +5,17 @@ weight: 1
 ---
 
 {{< lead >}} 
-FORMULA Developments 
+### What Does Code Below Show?
+- Component --> Software Components 
+- Processor --> Hardware Processors
+- Mapping --> Mapping Between The Two
+
+{{< lead >}}
+Outcome is one inference rule describing a bad mappings shown by models (m & pm) of Mapping. 
+{{< /lead >}}
 {{< /lead >}}
 
-## FORMULA: Initial Version of Symbolic Executer Engine
+### FORMULA: Initial Version of Symbolic Executer Engine
 Representative Example 
 
 {{< code lang="html" >}}
@@ -44,10 +51,7 @@ partial model pm of Mapping
 }
 {{< /code >}}
 
-What Does Code Show?
-- Component --> Software Components 
-- Processor --> Hardware Processors
-- Mapping --> Mapping Between The Two
+### Going Forward
 
-Outcome is one inference rule describing a bad mappings shown by models (m & pm) of Mapping. 
-
+- Support many additional language features, work is ongoing
+- Next step: recursive rules
