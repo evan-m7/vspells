@@ -5,7 +5,7 @@ canonifyURLs = true
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "VSPELLS HOMEPAGE"
+title = "VU-CMU CODES Homepage"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -31,16 +31,12 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
       unsafe = true
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
-
-[[menu.shortcuts]]
-name = "More from us"
-url = "https://vantage-design.com"
-weight = 1
+#home = [ "HTML", "RSS", "JSON"]
+home = [ "HTML", "JSON" ]
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
-url = "https://github.com/vantagedesign/ace-documentation"
+url = "https://github.com/VUISIS"
 weight = 2
 
 [[menu.shortcuts]]
